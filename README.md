@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-**SkyPredict** is a big data flight intelligence platform that predicts flight delays and ticket price ranges for US domestic routes — powered by **Apache Spark** on **~30M rows** of BTS On-Time Performance data (2019–2023), served through a live **Streamlit web app** with real-time weather integration.
+**SkyPredict** is a big data flight intelligence platform that predicts flight delays and ticket price ranges for US domestic routes , powered by **Apache Spark** on **~30M rows** of BTS On-Time Performance data (2019–2023), served through a live **Streamlit web app** with real-time weather integration.
 
 Given an origin airport, destination airport, and travel date, SkyPredict tells you:
 - 🟢/🟡/🔴 **Expected delay risk** (low / medium / high)
